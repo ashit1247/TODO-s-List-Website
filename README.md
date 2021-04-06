@@ -1,0 +1,2 @@
+# TODO_list_webDev
+This project contained two input label for title and description along with add to list button and clear list. The input get stored in localstorage. Add to list button fetching data and showing in list format. Clear list will delete all the content. Before doing so it will pop up an alert for comfirmation. In list there is one action button called delete to delete selected item from list and finally update the list.

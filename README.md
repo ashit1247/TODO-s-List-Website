@@ -1,4 +1,4 @@
-# TODO-s-List-Website
+# TODOs-List-Website
 1. Build a website to taking input from the user and show it to it user in table format.
 2. In the webpage, defined a form element taking input from the user and storing data in local storage.
 3. Used javascript methods to fetch data from local storage and populated on the table which the user can see on the webpage.

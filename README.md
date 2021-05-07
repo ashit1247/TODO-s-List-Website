@@ -1,2 +1,6 @@
-# TODO_list_webDev
-This project contained two input label for title and description along with add to list button and clear list. The input get stored in localstorage. Add to list button fetching data and showing in list format. Clear list will delete all the content. Before doing so it will pop up an alert for comfirmation. In list there is one action button called delete to delete selected item from list and finally update the list.
+# TODO-s-List-Website
+1. Build a website to taking input from the user and show it to it user in table format.
+2. In the webpage, defined a form element taking input from the user and storing data in local storage.
+3. Used javascript methods to fetch data from local storage and populated on the table which the user can see on the webpage.
+4. Table data contain one action button called 'delete', which deletes an item from the table and updates it.
+5. Webpage contains two buttons named 'Add to list' and 'Clear list' for adding items to the table and delete items from the list respectively.
